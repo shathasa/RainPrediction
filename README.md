@@ -13,7 +13,8 @@
 ## Cleaning
 
 ### In The beginning, I started with 22 Features with missing values, I deleted all the features with a missing value above 15%.
-###After that, I filled the missing values of numerical features using mean and categorical features using the mode, and I ended with 18 features.
+### After that, I filled the missing values of numerical features using mean and categorical features using the mode, and I ended with 18 features.
 
 
 ## Data Exploration
+
