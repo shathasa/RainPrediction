@@ -39,7 +39,19 @@
 
 ## Modelling
 
+### In the logistics regression, the score is good it is 0.846 but in the random forest was 0.22.
 
+### The confusion matrix
+
+<img width="409" alt="Screen Shot 2021-10-21 at 9 05 29 AM" src="https://user-images.githubusercontent.com/58388925/138220718-f56b5311-481a-4a57-8b49-df27232ddde1.png">
+
+## Conclusion
+
+### We can see that the accuracy is not that high in the random forest because of the outlier in the dataset.
+
+<img width="832" alt="Screen Shot 2021-10-21 at 9 08 12 AM" src="https://user-images.githubusercontent.com/58388925/138221024-d10704fd-d2f8-419f-8995-e4d86ad0939f.png">
+
+### In the future maybe I have to do some data engineering to reduce the outlier.
 
 
 
